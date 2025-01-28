@@ -58,7 +58,7 @@ components/Button/
 ```
 
 ### 3. **Main `README.md`**
-# This ReadMe contains link fo the figma page/pages where we shall be pasting the components after designing. 
+## This ReadMe contains link fo the figma page/pages where we shall be pasting the components after designing. 
 
 
 - **Overview**: Brief description of the project.
@@ -75,8 +75,8 @@ Below are the Figma links for the Main pages:
 ```
 
 ## Components
-# Each component has its own folder under the `components/` directory, containing code files and assets like UI previews and videos.
-# Stylised components to be created within the same folder i.e `buttons` and `buttons_glassmorphism` within the same `components/buttons`.
+### Each component has its own folder under the `components/` directory, containing code files and assets like UI previews and videos.
+### Stylised components to be created within the same folder i.e `buttons` and `buttons_glassmorphism` within the same `components/buttons`.
 
 ### The Components
 
