@@ -39,8 +39,9 @@ This folder will hold individual subfolders for each component in your project.
 Each component folder should include:
 
 - **Assets Folder**: This folder contains:
-  - `ui-preview.png` (a screenshot of the component's UI).
-  - `demo-video.mp4` (an optional video demonstrating the component in action).
+  - `ComponentName.png` (a screenshot of the component's UI).
+  - `ComponentName.svg` (a vector file of the component).
+  - `ComponentName.mp4` (an optional video demonstrating the component in action).
 
 - **Code Files**: Include all relevant code files for the component, such as:
   - `ComponentName.js` (JavaScript/TypeScript code).
@@ -52,10 +53,14 @@ Example for a component named `Button`:
 ```plaintext
 components/Button/
 |-- assets/
-|   |-- ui-preview.png
-|   |-- demo-video.mp4
+|   |-- ComponentName.png
+|   |-- ComponentName.svg
+|   |-- ComponentName.mp4
 |-- Button.js
 |-- Button.css
+|-- Button.jsx
+|-- Button.html
+etc
 ```
 
 ### 3. **Main `README.md`**
@@ -64,7 +69,7 @@ components/Button/
 
 - **Overview**: Brief description of the project.
 - **Figma Links**: The links to Figma designs for pages containing various elements/components will be below.
-- Specific contributors can create ReadMe to specific components if it require extra documentation at the folder level.
+- Specific contributors can create ReadMe to specific components if it require extra documentation at the component level.
 
 ## Figma Links
 Below is the Figma links for the pages:
