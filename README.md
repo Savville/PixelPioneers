@@ -45,6 +45,7 @@ Each component folder should include:
 - **Code Files**: Include all relevant code files for the component, such as:
   - `ComponentName.js` (JavaScript/TypeScript code).
   - `ComponentName.css` (styling specific to the component).
+  - `ComponentName.jsx` (React)
 
 Example for a component named `Button`:
 
@@ -66,13 +67,10 @@ components/Button/
 - Specific contributors can create ReadMe to specific components if it require extra documentation at the folder level.
 
 ## Figma Links
-Below are the Figma links for the Main pages:
+Below is the Figma links for the pages:
 
-```Will be listed here
-- [Homepage](https://figma.com/link-to-homepage)
-- [Dashboard Design](https://figma.com/link-to-dashboard)
-- [Profile Page Design](https://figma.com/link-to-profile-page)
-```
+https://www.figma.com/design/GhWCYqJiP6mFLW04wlIkjP/PIXELPIONEERS?node-id=659-307&t=qmtC8yeqDD9xTbtF-1
+
 
 ## Components
 ### Each component has its own folder under the `components/` directory, containing code files and assets like UI previews and videos.
